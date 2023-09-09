@@ -47,13 +47,24 @@
 <h3 align="left">Design and Prototyping </h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-</p>
+  <hr>
+
+<h3 align="center">Some Of my Projects</h3>
+<a href="https://car4rent-client.onrender.com/home" title="First MERN Team APP"> <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694291484/Mobi%27s%20personal%20data/whgv1inls6p9y20qivgb.png" alt="Tomb Raider" width="200" height="100"/> </a>
+<a href="https://mobi-media.netlify.app" title="Mobi Media App"> <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694289918/Mobi%27s%20personal%20data/ch3dlcrwfksrb6lnuloa.png" alt="Mobi Media App" width="200" height="100"/> </a>
+<a href="https://ornate-treacle-8a5bab.netlify.app" title="Expense Tracker app"> <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694255187/Mobi%27s%20personal%20data/nu0ofpgtyppahmr1dobh.png" alt="ExpenseTracker" width="200" height="100"/> </a>
+<a href="https://food-e-react.netlify.app"title="Food Order App"> <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694289641/Mobi%27s%20personal%20data/yspclzvrbxlr5ujxdzc9.png" alt="food order app" width="200" height="100"/> </a>
+<a href="https://first-ui-project.netlify.app/" title="First Ui/<Ux"> <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694255679/Mobi%27s%20personal%20data/om5pbmlwaacdhvkos3rx.png" alt="Tomb Raider" width="200" height="100"/> </a>
+</P>
+
+
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mubasher-ahmad-chaudhry-72762385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubasher ahmad chaudhry" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MubasherChaudhry&label=Profile%20visitors&style=dark" alt="MargoBezmosciuc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MubasherChaudhry&label=Profile%20visitors&style=dark" alt="MubasherChaudhry /> </p>
 
 
