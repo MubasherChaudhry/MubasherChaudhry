@@ -3,7 +3,7 @@
 <hr>
 <div align="center"> <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694165502/Mobi%27s%20personal%20data/l73mwtqexxyhvo8snlbh.png"> </div>
 <hr>
-  <h3 align="center">🎓 I am a recent graduate of the Digital Career Institute with a focus on Full Stack Web Development, and I'm eager to embark on my journey as a Junior Full Stack Web Developer.</h3>
+  <h3 align="center">🎓I completed my studies at the Digital Career Institute, specializing in Full Stack Web Development, and I'm now poised to launch my career as a Junior Full Stack Web Developer with enthusiasm and readiness..</h3>
   <hr>
 
 
