@@ -1,48 +1,62 @@
 <div align="center">
   <a href="https://github.com/MubasherChaudhry">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mubasher%20Chaudhry&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20from%20Germany%20🇩🇪&descSize=20&descAlignY=65" alt="Mubasher Chaudhry Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mubasher%20Chaudhry&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Problem%20Solver%20%7C%20Code%20Artist%20%7C%20Based%20in%20Germany%20🇩🇪&descSize=20&descAlignY=65" alt="Mubasher Chaudhry Header" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MubasherChaudhry&label=Profile%20Views&color=ff6f61&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MubasherChaudhry?label=Followers&style=for-the-badge&color=6bcf7f&labelColor=0d1117&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-ff6f61?style=for-the-badge&labelColor=0d1117&logo=code" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117" alt="Available for Hire" />
+  <img src="https://komarev.com/ghpvc/?username=MubasherChaudhry&label=Profile%20Views&color=ff6f61&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/MubasherChaudhry?label=Followers&style=for-the-badge&color=6bcf7f&labelColor=0d1117&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-ff6f61?style=for-the-badge&labelColor=0d1117&logo=code" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117" />
 </p>
 
 ---
 
-### 💻 About Me 🕵️‍♂️
+### 👋 Hey there!
 
-<img align="right" alt="Hacker Animation" width="380" src="https://res.cloudinary.com/du3fam9np/image/upload/v1694166013/Mobi%27s%20personal%20data/fwizrpz9onuyj3kzpiyw.gif" />
+<img align="right" width="380" src="https://res.cloudinary.com/du3fam9np/image/upload/v1694166013/Mobi%27s%20personal%20data/fwizrpz9onuyj3kzpiyw.gif" alt="About Me Graphic" />
 
+I’m **Mubasher**, a full-stack web developer based in Germany 🇩🇪. I work mostly with the **MERN stack**, and I love turning ideas into real-world web applications.
 
-I'm a graduate of the **Digital Career Institute** in Full Stack Web Development, but that's just the official story. 😉 Behind the scenes, I operate on discreet contracts and connections, collaborating with international teams to tackle unique digital challenges. My specialty is the **MERN Stack**, but I'm always on the hunt for new tech and clandestine projects. The real story? Let's just say the code is my canvas, and I'm not afraid to get my hands dirty. 🤫
+While I did complete my formal training at the **Digital Career Institute**, most of my skills were earned through hands-on building, experimenting, and collaborating with global teams on exciting projects.
 
--   🔭 **Currently mastering**: Advanced React patterns and the Next.js ecosystem for... confidential projects. 🤐
--   💡 **Ask me about**: MERN Stack, API design, or how to get things done without leaving a trace.
--   👥 **Collaborating on**: Innovative full-stack apps that are just off the public radar.
--   📫 **Reach me at**: <a href="mailto:chaudhry.mubasher89@gmail.com">chaudhry.mubasher89@gmail.com</a>
--   ⚡ **Fun fact**: My most successful projects aren't on GitHub. 🕶️
+Some people call me a problem solver. Others say I’m a digital ninja (I'll take that 😎). Either way, I’m here to build things that are clean, functional, and a little bit magical.
+
+### 🔧 What I'm Working On
+
+- Exploring **advanced React** and **Next.js** for high-performance apps  
+- Diving deeper into **design systems** and user-first architecture  
+- Building web solutions that work and look great on any screen  
+- Taking on freelance work or stealthy collaborations you won’t find on GitHub 😉
+
+### 💬 Let's Talk Tech
+
+- Ask me about full-stack architecture, scalable UIs, or backend logic  
+- Always happy to share tips on structuring APIs, using Git effectively, or picking the right tech stack for your next project  
+- Fun fact: Most of my favorite work isn't public... but that's how you know it's good 😉
+
+### 📫 Reach out
+
+I'm just an email away at [chaudhry.mubasher89@gmail.com](mailto:chaudhry.mubasher89@gmail.com). Whether it’s a project, a code review, or just a nerdy convo — I’m all ears.
 
 <br clear="both" />
 
 ---
 
-### 🚀 My Toolbox
+### 🛠️ Tech Stack & Toolbox
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=My+Technical+Arsenal+⚔️;Ready+for+Any+Challenge+💪" alt="Toolbox Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=My+Technical+Arsenal+⚔️;Ready+for+Any+Challenge+💪" alt="Tech Stack Animation" />
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,dotnet,react,nextjs,html,css,bootstrap,sass,tailwind,nodejs,express,mongodb,postman,figma,photoshop,git,github,vscode&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,dotnet,react,nextjs,html,css,bootstrap,sass,tailwind,nodejs,express,mongodb,postman,figma,photoshop,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Highlights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MubasherChaudhry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6f61&text_color=ffffff&icon_color=6bcf7f&custom_title=Mubasher's+GitHub+Stats" width="48%" />
@@ -51,46 +65,31 @@ I'm a graduate of the **Digital Career Institute** in Full Stack Web Development
 
 ---
 
-### 🎨 Featured Projects
+### 🌟 Some of My Work
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=FFD93D&center=true&vCenter=true&width=800&lines=Showcasing+Real-World+Applications+💼;Each+Project+Tells+a+Story+of+Innovation+📖" alt="Projects Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1500&color=FFD93D&center=true&vCenter=true&width=800&lines=Crafted+with+Code+and+Creativity+🎨;Each+Project+Tells+a+Story+📖" />
 </p>
 
 <table width="100%">
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694291484/Mobi%27s%20personal%20data/whgv1inls6p9y20qivgb.png" width="300" alt="Car4Rent App" />
-      </a>
-      <br>
-      <strong>Car4Rent App</strong>
-      <br>
-      A full-stack car rental platform with real-time booking.
-      <br>
-      <img src="https://img.shields.io/badge/Stack-MERN-blue?style=flat-square" alt="Tech Stack" />
+      <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694291484/Mobi%27s%20personal%20data/whgv1inls6p9y20qivgb.png" width="300" alt="Car4Rent App" />
+      <br><strong>Car4Rent App</strong><br>
+      Full-stack car rental platform with real-time booking<br>
+      <img src="https://img.shields.io/badge/Stack-MERN-blue?style=flat-square" />
     </td>
     <td align="center">
-      <a href="#">
-        <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694289918/Mobi%27s%20personal%20data/ch3dlcrwfksrb6lnuloa.png" width="300" alt="Mobi Media App" />
-      </a>
-      <br>
-      <strong>Mobi Media App</strong>
-      <br>
-      Media sharing app with cloud storage & responsive UI.
-      <br>
-      <img src="https://img.shields.io/badge/Stack-MERN-blue?style=flat-square" alt="Tech Stack" />
+      <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694289918/Mobi%27s%20personal%20data/ch3dlcrwfksrb6lnuloa.png" width="300" alt="Mobi Media App" />
+      <br><strong>Mobi Media App</strong><br>
+      Media sharing with cloud storage & responsive UI<br>
+      <img src="https://img.shields.io/badge/Stack-MERN-blue?style=flat-square" />
     </td>
     <td align="center">
-      <a href="#">
-        <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694255187/Mobi%27s%20personal%20data/nu0ofpgtyppahmr1dobh.png" width="300" alt="Expense Tracker" />
-      </a>
-      <br>
-      <strong>Expense Tracker</strong>
-      <br>
-      Track spending with charts and local persistence.
-      <br>
-      <img src="https://img.shields.io/badge/Stack-React-61DAFB?style=flat-square" alt="Tech Stack" />
+      <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694255187/Mobi%27s%20personal%20data/nu0ofpgtyppahmr1dobh.png" width="300" alt="Expense Tracker" />
+      <br><strong>Expense Tracker</strong><br>
+      Visual spending tracker with charts & local storage<br>
+      <img src="https://img.shields.io/badge/Stack-React-61DAFB?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -100,51 +99,41 @@ I'm a graduate of the **Digital Career Institute** in Full Stack Web Development
 <table width="100%">
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694289641/Mobi%27s%20personal%20data/yspclzvrbxlr5ujxdzc9.png" width="300" alt="Food Order App" />
-      </a>
-      <br>
-      <strong>Food Ordering System</strong>
-      <br>
-      A React-powered food ordering with cart logic.
-      <br>
-      <img src="https://img.shields.io/badge/Stack-React-61DAFB?style=flat-square" alt="Tech Stack" />
+      <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694289641/Mobi%27s%20personal%20data/yspclzvrbxlr5ujxdzc9.png" width="300" alt="Food Order App" />
+      <br><strong>Food Ordering System</strong><br>
+      A React-powered ordering app with cart logic<br>
+      <img src="https://img.shields.io/badge/Stack-React-61DAFB?style=flat-square" />
     </td>
     <td align="center">
-      <a href="#">
-        <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694255679/Mobi%27s%20personal%20data/om5pbmlwaacdhvkos3rx.png" width="300" alt="First UI/UX Project" />
-      </a>
-      <br>
-      <strong>UI/UX Design Journey</strong>
-      <br>
-      My first design project to merge code with creativity.
-      <br>
-      <img src="https://img.shields.io/badge/Tools-Figma-F24E1E?style=flat-square" alt="Design Tools" />
+      <img src="https://res.cloudinary.com/du3fam9np/image/upload/v1694255679/Mobi%27s%20personal%20data/om5pbmlwaacdhvkos3rx.png" width="300" alt="First UI/UX Project" />
+      <br><strong>UI/UX Design Journey</strong><br>
+      Where code meets creativity in my first Figma project<br>
+      <img src="https://img.shields.io/badge/Tools-Figma-F24E1E?style=flat-square" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 👋 Let's Connect
+### 🤝 Let’s Connect
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=700&lines=Let's+Build+Something+Amazing!+🚀" alt="Connect Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=900&lines=Let’s+Build+Something+Awesome+Together+🚀" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mubasherchaudhry" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<!--   <a href="https://linkedin.com/in/mubasherchaudhry" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> -->
   <a href="mailto:chaudhry.mubasher89@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mubasher.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
+<!--   <a href="https://mubasher.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=react&logoColor=white" />
+  </a> -->
 </p>
 
----
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontColor=ffffff&desc=Keep+Coding%2C+Keep+Creating%2C+Keep+Innovating!&descSize=16" width="100%" />
